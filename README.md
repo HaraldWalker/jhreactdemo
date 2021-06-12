@@ -116,6 +116,16 @@ Unit tests are run by [Jest][]. They're located in [src/test/javascript/](src/te
 npm test
 ```
 
+UI integration tests are done with [Cypress](https://www.cypress.io/), and are located in the [src/test/javascript/e2e](src/test/javascript/e2e) folder.
+
+Those tests will launch a Web browser and use the application like a real user would do, so you need to have a real application running, with its database set-up.
+
+Those tests can be run using
+
+```
+npm run e2e
+```
+
 For more information, refer to the [Running tests page][].
 
 ### Code quality
