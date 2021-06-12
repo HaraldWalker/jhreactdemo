@@ -4,7 +4,7 @@ Simple example application with React front-end and spring boot backend.
 
 This application was generated using JHipster 7.0.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.0.1](https://www.jhipster.tech/documentation-archive/v7.0.1).
 
-[![Java CI with Gradle](https://github.com/HaraldWalker/jhreactdemo/actions/workflows/gradle.yml/badge.svg)](https://github.com/HaraldWalker/jhreactdemo/actions/workflows/gradle.yml)
+[![Application CI](https://github.com/HaraldWalker/jhreactdemo/actions/workflows/github-actions.yml/badge.svg)](https://github.com/HaraldWalker/jhreactdemo/actions/workflows/github-actions.yml)
 
 ## Development
 
