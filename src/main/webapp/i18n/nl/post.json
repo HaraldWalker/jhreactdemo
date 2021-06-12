@@ -1,0 +1,25 @@
+{
+  "jHReactDemoApp": {
+    "post": {
+      "home": {
+        "title": "Posts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Maak een nieuwe Post",
+        "createOrEditLabel": "Maak of wijzig een Post",
+        "notFound": "No Posts found"
+      },
+      "created": "A new Post is created with identifier {{ param }}",
+      "updated": "A Post is updated with identifier {{ param }}",
+      "deleted": "A Post is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Post {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Post"
+      },
+      "id": "ID",
+      "title": "Title",
+      "body": "Body"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "jHReactDemoApp": {
+    "post": {
+      "home": {
+        "title": "Posts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Skapa en ny Post",
+        "createOrEditLabel": "Skapa eller ändra en Post",
+        "notFound": "No Posts found"
+      },
+      "created": "En ny Post är skapad med id {{ param }}",
+      "updated": "En Post är uppdaterad med id  {{ param }}",
+      "deleted": "En Post är borttagen med id  {{ param }}",
+      "delete": {
+        "question": "Är du säker på att du vill ta bort Post {{ id }}?"
+      },
+      "detail": {
+        "title": "Post"
+      },
+      "id": "ID",
+      "title": "Title",
+      "body": "Body"
+    }
+  }
+}

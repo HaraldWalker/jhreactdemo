@@ -1,0 +1,25 @@
+{
+  "jHReactDemoApp": {
+    "post": {
+      "home": {
+        "title": "Posts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Luo Post",
+        "createOrEditLabel": "Luo tai muokkaa Post",
+        "notFound": "Post ei löytynyt"
+      },
+      "created": "Uusi Post on luotu, id: {{ param }}",
+      "updated": "Post on päivitetty, id: {{ param }}",
+      "deleted": "Post on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Post {{ id }}?"
+      },
+      "detail": {
+        "title": "Post"
+      },
+      "id": "ID",
+      "title": "Title",
+      "body": "Body"
+    }
+  }
+}
